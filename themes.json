@@ -31,6 +31,12 @@
       "pypi": "pydata-sphinx-theme"
     },
     {
+      "config": "shibuya",
+      "display": "Shibuya",
+      "documentation": "https://shibuya.lepture.com/",
+      "pypi": "shibuya"
+    },
+    {
       "config": "press",
       "display": "Press",
       "documentation": "https://schettino72.github.io/sphinx_press_site/",

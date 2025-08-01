@@ -10,6 +10,7 @@ _FEATURED = [
     "furo",
     "sphinx-book-theme",
     "pydata-sphinx-theme",
+    "shibuya",
     "sphinx-press-theme",
     "piccolo-theme",
     "insegel",
